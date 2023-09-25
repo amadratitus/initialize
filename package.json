@@ -1,0 +1,33 @@
+{
+  "name": "initialize",
+  "version": "1.0.0",
+  "description": "All in one file download master",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amadratitus/initialize.git"
+  },
+  "keywords": [
+    "download",
+    "downloader",
+    "download",
+    "master"
+  ],
+  "author": "Kris2fa A Titus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amadratitus/initialize/issues"
+  },
+  "homepage": "https://github.com/amadratitus/initialize#readme",
+  "devDependencies": {
+    "electron": "^26.2.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "jquery": "^3.7.1"
+  }
+}
